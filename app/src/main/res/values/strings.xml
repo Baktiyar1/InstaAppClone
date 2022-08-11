@@ -2,8 +2,14 @@
     <string name="app_name">Back4AppExample</string>
 
 
-    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string>
-    <string name="back4app_app_id" translatable="false">PASTE_YOUR_APPLICATION_ID_HERE</string>
-    <string name="back4app_client_key" translatable="false">PASTE_YOUR_CLIENT_KEY_HERE</string>
+    <string name="server_url" translatable="false">https://parseapi.back4app.com/</string>
+    <string name="app_id" translatable="false">SdDxwdorxfu082GfHztLUsRyzMI2jmiBMGcGfJ3k</string>
+    <string name="client_key" translatable="false">QEqWkgTKRHIq3TXj2TzEzFWfN0P6ylICTtKkGfmF</string>
+    <string name="rest_api_key" translatable="false">24oipk1crCh8qm5iPFBvaS9xG5vKZdltUGByaKgH</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="add_post">Add post</string>
+    <string name="profile">Profile</string>
 
 </resources>
